@@ -54,10 +54,10 @@ echo $result;
 
 <pre>
 <code>
-<?php
 
-/*print_r($_SERVER);*/
-/* Conectamos a BBDD*/
+
+//print_r($_SERVER);
+// Conectamos a BBDD
 $mysqli = new mysqli('localhost', 'root', 'root', 'nascor01_DB');
 if ($mysqli->connect_errno) {
     echo "Lo sentimos, este sitio web está experimentando problemas.";
