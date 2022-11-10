@@ -141,21 +141,21 @@ el archivo  metaDataCardStockView.php
 
 <pre>
 /*
-<!--
-// todos los parametros que puede recibir por variable
-//$information
-//$symbol
-//$last_refreshed
-//$out_size
-//$time_zone
-//$key_id[]
-//$daily[]
-//$open[]
-//$high[]
-//$low[]
-//$close[]
-//$volume[] 
--->*/
+
+todos los parametros que puede recibir por variable
+$information
+$symbol
+$last_refreshed
+$out_size
+$time_zone
+$key_id[]
+$daily[]
+$open[]
+$high[]
+$low[]
+$close[]
+$volume[] 
+*/
 
 <?php
 
