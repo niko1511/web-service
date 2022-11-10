@@ -66,7 +66,7 @@ la primera carpeta blocks contiene todos los bloques creados
 en la carpeta blocks
 el archivo block-stocks.php
 <pre>
-
+<code>
 
 /*incluimos la url del modelo solo una vez para genenerar una nueva instancia por cada vez que se llame al bloque*/
 include_once get_template_directory() . '/blocks-models/timeSeriesIntradayModel.php';
@@ -106,6 +106,7 @@ include get_template_directory() . '/blocks-views/metaDataCardStockView.php';
 
 
 /*Nota: creando en el mismo directorio el archivo block-stocks.css podremos darle nuestro toque personal en css*/
+</code>
 </pre>
 
 en la carpeta blocks-models
@@ -155,7 +156,7 @@ $high[]
 $low[]
 $close[]
 $volume[] 
-
+*/
 
 <?php
 
@@ -196,8 +197,6 @@ $minValueOpen = 0;
 
 </div>
 
-
-*/
 </pre>
 
 
