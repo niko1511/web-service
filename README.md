@@ -139,7 +139,8 @@ class Intraday{
 en la carpeta blocks-views
 el archivo  metaDataCardStockView.php 
 
-<html>
+<pre>
+/*
 <!--
 // todos los parametros que puede recibir por variable
 //$information
@@ -154,7 +155,7 @@ el archivo  metaDataCardStockView.php
 //$low[]
 //$close[]
 //$volume[] 
--->
+-->*/
 
 <?php
 
@@ -196,7 +197,7 @@ $minValueOpen = 0;
 </div>
 
 
-</html>
+</pre>
 
 
 
