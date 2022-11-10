@@ -140,6 +140,7 @@ en la carpeta blocks-views
 el archivo  metaDataCardStockView.php 
 
 <pre>
+<code>
 /*
 
 todos los parametros que puede recibir por variable
@@ -196,7 +197,7 @@ $minValueOpen = 0;
 
 </div>
 
-
+</code>
 </pre>
 
 
