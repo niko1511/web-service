@@ -74,7 +74,7 @@ en la carpeta blocks-views
 el archivo  metaDataCardStockView.php 
 
 
-<strong>Nota:</strong> en el archivo memoria.pdf se encuentra mejor ilustrado 
+<h2><strong>Nota:</strong> en el archivo memoria.pdf se encuentra mejor ilustrado </h2>
 
 ver resultado a falta de darle mejor estilos css  y distribución de la información  
 https://nascor01.md360.es/wordpress/index.php/stocks/stocks/
